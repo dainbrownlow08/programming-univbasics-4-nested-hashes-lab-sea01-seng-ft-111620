@@ -112,6 +112,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
+  return programmer_hash
 
 end
 
